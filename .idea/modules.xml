@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JsNativeBlog.iml" filepath="$PROJECT_DIR$/.idea/JsNativeBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NativeBlog.iml" filepath="$PROJECT_DIR$/.idea/NativeBlog.iml" />
     </modules>
   </component>
 </project>
